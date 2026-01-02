@@ -5,7 +5,6 @@ This project analyzes credit card transaction data to understand spending behavi
 
 ## 📂 Tools & Setup
 - Power BI
-- SQL
 - Excel
 
 ## 📄 Dataset
